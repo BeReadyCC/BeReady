@@ -1,0 +1,81 @@
+{%import "icons.html" as icons%}
+
+
+{% set page_no =__qs.page | default(value=1) | int %}
+{% set page_size = page_size | default(value=6) %}
+{% set show_summary = show_summary | default(value=false) %}
+{% set offset = (page_no - 1) * page_size %}
+{% set data = posts(dir=dir, recursive=include_subfolders | default(value=true), exclude_tags=exclude_tags | default(value=[]), offset=offset, limit=page_size) %}
+{% set items = data.items %}
+{% set total = data.total %}
+{% set page_count = (total / page_size) | round(method="ceil") | int %}
+<ol class="dcard-list">
+    {% for doc in items %}
+    <li>
+        <div class="dcard-list__row">
+            <div class="dcard-list__main">
+                {% if doc.weight > 0 %}<span class="!text-red-500 mark-top shrink-0"></span>{% endif %}
+                <a href="{{ doc.url_path | safe }}" target="_blank" class="dcard-list__title">{{doc.title}}</a>
+            </div>
+            <div class="dcard-list__date number {% if doc.created_at != doc.updated_at %}italic font-medium{% else %}font-light{% endif %}">
+                {{doc.updated_at | date(format="%Y-%m-%d")}}
+            </div>
+        </div>
+        {% if show_summary and doc.summary %}
+        <p class="dcard-list__summary">{{ doc.summary }}</p>
+        {% endif %}
+    </li>
+    {% endfor %}
+</ol>
+
+{% if page_count > 1 %}
+<div class="space-x-6 flex !mt-10 text-normal items-center justify-center">
+    {% if page_no > 1 %}
+    <div class="flex items-center space-x-1">
+        {% if page_no == 2 %}
+        <a href="{{__page_path_base}}.html" class="flex items-center gap-0.5 p-1.5 rounded-md hover:bg-brand-primary-subtle dark:hover:bg-brand-primary-subtle-light transition-colors">
+            {{icons::navigate_prev_icon()}}
+        </a>
+        {% elif page_no > 2 %}
+        <a href="{{__page_path_base}}.p{{page_no-1}}.html"
+            class="flex items-center gap-0.5 p-1.5 rounded-md hover:bg-brand-primary-subtle dark:hover:bg-brand-primary-subtle-light transition-colors">
+            {{icons::navigate_prev_icon()}}
+        </a>
+        {% endif %}
+    </div>
+    {% endif %}
+
+    {# 跳转分页（Alpine 内联片段；PJAX 换页后由 installAlpinePjaxReinit destroy+init） #}
+    <div x-data="{
+    currentPage: {{ page_no }},
+    totalPages: {{ page_count }},
+    baseUrl: '{{ __page_path_base }}',
+    goToPage() {
+      const page = parseInt(this.currentPage, 10);
+      if (page >= 1 && page <= this.totalPages) {
+        const path = page === 1 ? this.baseUrl + '.html' : this.baseUrl + '.p' + page + '.html';
+        const url = new URL(path, window.location.href).href;
+        (typeof window.youlogNavigate==='function'?window.youlogNavigate:function(u){location.href=u})(url);
+      }
+    }
+  }" x-init="currentPage = {{ page_no }}">
+        <select x-model="currentPage" @change="goToPage()"
+            class="text-gray-600 text-sm rounded pl-1 py-1 hover:bg-gray-100 dark:bg-gray-900 dark:hover:bg-gray-800 dark:text-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent">
+            {% for p in range(start=1, end=page_count + 1) %}
+            <option value="{{ p }}"{% if p == page_no %} selected{% endif %}>{{ p }} / {{ page_count }}</option>
+            {% endfor %}
+        </select>
+    </div>
+
+    {% if page_no * page_size < total %}
+    <div class="flex items-center space-x-1">
+        <a href="{{__page_path_base}}.p{{page_no+1}}.html"
+            class="flex items-center gap-0.5 p-1.5 rounded-md hover:bg-brand-primary-subtle dark:hover:bg-brand-primary-subtle-light transition-colors">
+            {{icons::navigate_next_icon()}}
+        </a>
+    </div>
+    {% endif %}
+
+
+</div>
+{% endif %}
