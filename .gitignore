@@ -5,3 +5,6 @@ __everkm/dist/
 dist/
 out/
 .DS_Store
+.workbuddy
+_progress
+_raw
