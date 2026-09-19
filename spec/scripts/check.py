@@ -140,6 +140,7 @@ def check_links(info, titles):
 
 DIRECTION_RE = re.compile(r"[（(]方向[)）]|待建|未建|尚未创建")
 SECTION_STALE_RE = re.compile(r"尚未展开|未展开|待建立|待建")
+OVERSEEN_RE = re.compile(r"已解决|已定案|已建成|已补完|~~")
 
 
 def check_stale(info):
@@ -159,22 +160,30 @@ def check_stale(info):
         for i, line in enumerate(lines, 1):
             if not DIRECTION_RE.search(line):
                 continue
+            if OVERSEEN_RE.search(line):         # 已标「已解决/已定案」的历史记录，跳过
+                continue
             hit = [t.strip() for t in LINK_RE.findall(line) if built(t.strip())]
             if hit:
                 warns.append("%s:%d 标为方向/待建但已建：%s" % (rel, i, "、".join(hit)))
-        # 2) 整段标「尚未展开」，但段内链接全部已建
-        cur_head, cur_start, cur_links = None, 0, []
+        # 2) 整段标「尚未展开」，但段内链接全部已建（含子标题，作用域到同级/更高级标题为止）
+        scope, head, start, links = 99, None, 0, []
         def flush():
-            if cur_head and cur_links and all(built(x) for x in cur_links):
+            if head and links and all(built(x) for x in links):
                 warns.append("%s:%d 「%s」段落标为未展开，但列出的 %d 个链接全部已建"
-                             % (rel, cur_start, cur_head.strip("# ").strip(), len(cur_links)))
+                             % (rel, start, head.strip("# ").strip(), len(links)))
         for i, line in enumerate(lines, 1):
             if line.startswith("#"):
-                flush()
-                cur_head, cur_start, cur_links = (line if SECTION_STALE_RE.search(line) else None), i, []
+                lvl = len(line) - len(line.lstrip("#"))
+                if scope < 99:
+                    if lvl <= scope:
+                        flush()
+                        scope, head, links = 99, None, []
+                    # 子标题不结束作用域，继续累积
+                if head is None and SECTION_STALE_RE.search(line):
+                    scope, head, start, links = lvl, line, i, []
                 continue
-            if cur_head:
-                cur_links += [t.strip() for t in LINK_RE.findall(line)]
+            if head is not None:
+                links += [t.strip() for t in LINK_RE.findall(line)]
         flush()
     return warns
 
