@@ -1,4 +1,6 @@
 ---
+id: be355c83-b65f-4c00-9471-b0f94fe59cfe
+created_at: 2026-09-19T08:51:36+08:00
 filename: capabilities/materials/L3/tanning.md
 title: 制革
 level: L3

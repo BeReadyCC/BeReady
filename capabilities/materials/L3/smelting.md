@@ -1,4 +1,6 @@
 ---
+id: aa67690e-2acf-420b-8c88-b59bf7d16fb6
+created_at: 2026-09-19T08:51:25+08:00
 filename: capabilities/materials/L3/smelting.md
 title: 金属冶炼
 level: L3

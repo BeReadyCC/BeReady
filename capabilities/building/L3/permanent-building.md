@@ -1,4 +1,6 @@
 ---
+id: c87145c7-825a-48b4-b378-cb14c211cbc3
+created_at: 2026-09-19T08:44:09+08:00
 filename: capabilities/building/L3/permanent-building.md
 title: 永久建筑
 level: L3

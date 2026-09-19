@@ -1,4 +1,6 @@
 ---
+id: 413c7482-0a93-423a-9b99-bf646a8e2bff
+created_at: 2026-09-19T08:44:18+08:00
 filename: capabilities/building/L3/roads-and-drainage.md
 title: 道路与排水
 level: L3

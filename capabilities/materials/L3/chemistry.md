@@ -1,4 +1,6 @@
 ---
+id: a827aaad-ba3b-4439-a9ac-5559727b42a9
+created_at: 2026-09-19T08:51:48+08:00
 filename: capabilities/materials/L3/chemistry.md
 title: 化工
 level: L3
