@@ -1,7 +1,6 @@
 ---
 id: fbe6a276-ec70-4038-b911-e0446c20d9b3
 created_at: 2026-09-17T19:26:57+08:00
-meta:
 filename: capabilities/fire/L1/fire-principles.md
 title: 火的基本原理
 level: L1

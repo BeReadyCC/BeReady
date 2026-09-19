@@ -1,7 +1,6 @@
 ---
 id: 0451fbd0-65ba-4882-84c2-fdd42c4a5b46
 created_at: 2026-09-17T19:29:55+08:00
-meta:
 filename: capabilities/fire/L1/maintain-flame.md
 title: 维持火焰
 level: L1

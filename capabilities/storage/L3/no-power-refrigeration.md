@@ -1,7 +1,6 @@
 ---
 id: e11f9509-30e7-457e-a3cf-847071a7aef0
 created_at: 2026-09-19T08:14:16+08:00
-meta:
 filename: capabilities/storage/L3/no-power-refrigeration.md
 title: 无电冷藏
 level: L3

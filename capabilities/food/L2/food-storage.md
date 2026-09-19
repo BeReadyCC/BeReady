@@ -1,7 +1,6 @@
 ---
 id: 41557e88-655a-46d0-8869-ea0c3b65fc06
 created_at: 2026-09-17T16:34:54+08:00
-meta:
 filename: capabilities/food/L2/food-storage.md
 title: 食物储存
 level: L2

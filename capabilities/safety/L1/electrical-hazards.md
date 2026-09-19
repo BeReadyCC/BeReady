@@ -1,7 +1,6 @@
 ---
 id: 22e1e018-6e77-409e-bd95-d6451e2decdf
 created_at: 2026-09-17T20:37:11+08:00
-meta:
 filename: capabilities/safety/L1/electrical-hazards.md
 title: 电气危险
 level: L1

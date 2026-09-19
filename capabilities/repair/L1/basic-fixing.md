@@ -1,7 +1,6 @@
 ---
 id: 9430987e-a1c9-4c3c-88f0-26bd3d422265
 created_at: 2026-09-18T08:22:40+08:00
-meta:
 filename: capabilities/repair/L1/basic-fixing.md
 title: 基础修理
 level: L1

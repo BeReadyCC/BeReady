@@ -1,7 +1,6 @@
 ---
 id: 9db8b5b7-e32d-4c03-b669-2233e133f7fb
 created_at: 2026-09-18T07:49:45+08:00
-meta:
 filename: capabilities/hygiene/L2/pest-control.md
 title: 防虫防鼠
 level: L2

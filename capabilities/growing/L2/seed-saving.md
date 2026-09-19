@@ -1,7 +1,6 @@
 ---
 id: 16b23e55-8fe9-4f8a-a4b9-78393d907a0c
 created_at: 2026-09-18T08:07:48+08:00
-meta:
 filename: capabilities/growing/L2/seed-saving.md
 title: 种子保存
 level: L2

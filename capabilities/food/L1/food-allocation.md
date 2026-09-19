@@ -1,7 +1,6 @@
 ---
 id: 40861306-851b-498b-90b5-0cdbfaee79f9
 created_at: 2026-09-17T16:26:55+08:00
-meta:
 filename: capabilities/food/L1/food-allocation.md
 title: 食物分配
 level: L1

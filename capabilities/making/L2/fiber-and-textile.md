@@ -1,7 +1,6 @@
 ---
 id: 123f1c41-ab74-40fd-ba60-823fb981ce62
 created_at: 2026-09-18T08:29:56+08:00
-meta:
 filename: capabilities/making/L2/fiber-and-textile.md
 title: 纤维与织物
 level: L2

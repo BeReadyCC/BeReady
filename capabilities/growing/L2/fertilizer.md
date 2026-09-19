@@ -1,7 +1,6 @@
 ---
 id: 0746d934-01c8-4e13-97c2-31d422ebd4ef
 created_at: 2026-09-18T08:07:48+08:00
-meta:
 filename: capabilities/growing/L2/fertilizer.md
 title: 肥料与养分
 level: L2

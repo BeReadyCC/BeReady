@@ -1,7 +1,6 @@
 ---
 id: 2a930f1f-b7d4-4c06-91dd-e37d0ccb1394
 created_at: 2026-09-18T08:53:44+08:00
-meta:
 filename: capabilities/production/L2/food-processing.md
 title: 食物加工
 level: L2

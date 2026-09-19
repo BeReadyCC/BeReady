@@ -1,7 +1,6 @@
 ---
 id: 7285f8bf-367a-423f-b50d-d1a6c6bddf91
 created_at: 2026-09-17T16:26:55+08:00
-meta:
 filename: capabilities/food/L1/basic-cooking.md
 title: 基本烹饪
 level: L1

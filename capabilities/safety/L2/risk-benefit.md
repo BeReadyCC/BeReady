@@ -1,7 +1,6 @@
 ---
 id: 8dd4f3fc-c0ba-40d8-8b9d-d4e082ed2f69
 created_at: 2026-09-17T22:37:59+08:00
-meta:
 filename: capabilities/safety/L2/risk-benefit.md
 title: 风险与收益
 level: L2

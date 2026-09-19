@@ -1,7 +1,6 @@
 ---
 id: f0506969-9702-43cc-aed1-eb625339cacf
 created_at: 2026-09-18T08:45:30+08:00
-meta:
 filename: capabilities/materials/L2/fiber.md
 title: 纤维材料
 level: L2

@@ -1,7 +1,6 @@
 ---
 id: 4281eb16-df7d-42fc-98f9-22e0cc764d6f
 created_at: 2026-09-17T20:14:14+08:00
-meta:
 filename: capabilities/shelter/L2/ground-isolation.md
 title: 地面隔离
 level: L2

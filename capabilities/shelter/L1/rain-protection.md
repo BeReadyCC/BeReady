@@ -1,7 +1,6 @@
 ---
 id: c088a10c-83dc-49ed-9b09-49a7fe2d73a8
 created_at: 2026-09-17T20:04:42+08:00
-meta:
 filename: capabilities/shelter/L1/rain-protection.md
 title: 防雨
 level: L1

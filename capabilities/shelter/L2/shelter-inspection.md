@@ -1,7 +1,6 @@
 ---
 id: 1dcb6e23-baa5-4b6e-a858-cb97508a6eea
 created_at: 2026-09-17T20:13:45+08:00
-meta:
 filename: capabilities/shelter/L2/shelter-inspection.md
 title: 庇护结构检查
 level: L2

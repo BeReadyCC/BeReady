@@ -1,7 +1,6 @@
 ---
 id: f31ffef8-3fe2-467b-97b7-c8b946201439
 created_at: 2026-09-18T08:13:48+08:00
-meta:
 filename: capabilities/energy/L1/batteries-and-power.md
 title: 电池与蓄电
 level: L1

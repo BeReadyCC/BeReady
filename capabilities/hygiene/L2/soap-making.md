@@ -1,7 +1,6 @@
 ---
 id: a79dbf86-a7c1-4c73-9cbd-744699e2fc5e
 created_at: 2026-09-19T07:54:59+08:00
-meta:
 filename: capabilities/hygiene/L2/soap-making.md
 title: 制肥皂
 level: L2

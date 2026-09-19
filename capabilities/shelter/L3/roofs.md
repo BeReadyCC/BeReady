@@ -1,7 +1,6 @@
 ---
 id: dcaac28e-f2be-46da-ba99-342cbf79eedb
 created_at: 2026-09-17T20:25:55+08:00
-meta:
 filename: capabilities/shelter/L3/roofs.md
 title: 屋顶
 level: L3

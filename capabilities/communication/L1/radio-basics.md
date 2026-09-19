@@ -1,7 +1,6 @@
 ---
 id: 8fbb4afc-87df-4540-9822-137a441a381c
 created_at: 2026-09-18T08:19:38+08:00
-meta:
 filename: capabilities/communication/L1/radio-basics.md
 title: 无线电基础
 level: L1

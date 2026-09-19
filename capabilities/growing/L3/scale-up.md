@@ -1,7 +1,6 @@
 ---
 id: 3599c016-092d-4dd8-aee3-8ad68cf28950
 created_at: 2026-09-19T08:20:39+08:00
-meta:
 filename: capabilities/growing/L3/scale-up.md
 title: 种植规模扩大
 level: L3

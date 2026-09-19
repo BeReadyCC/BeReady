@@ -1,7 +1,6 @@
 ---
 id: 0fb41ed2-870f-428e-9963-a3c61ccfe750
 created_at: 2026-09-18T08:16:42+08:00
-meta:
 filename: capabilities/storage/L2/cellar-and-burying.md
 title: 地窖与埋藏
 level: L2

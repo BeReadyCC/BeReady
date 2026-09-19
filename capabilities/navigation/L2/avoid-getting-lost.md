@@ -1,7 +1,6 @@
 ---
 id: 073cdfa0-1841-4025-914f-9c54a7758a63
 created_at: 2026-09-18T08:10:20+08:00
-meta:
 filename: capabilities/navigation/L2/avoid-getting-lost.md
 title: 不迷路的习惯
 level: L2

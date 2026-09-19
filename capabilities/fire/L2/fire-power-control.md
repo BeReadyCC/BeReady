@@ -1,7 +1,6 @@
 ---
 id: 42c0e368-b358-4a8e-9633-98a51973fb6e
 created_at: 2026-09-17T19:42:09+08:00
-meta:
 filename: capabilities/fire/L2/fire-power-control.md
 title: 火力控制
 level: L2

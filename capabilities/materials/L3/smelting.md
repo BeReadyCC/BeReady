@@ -1,5 +1,4 @@
 ---
-meta:
 filename: capabilities/materials/L3/smelting.md
 title: 金属冶炼
 level: L3

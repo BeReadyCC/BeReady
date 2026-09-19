@@ -1,7 +1,6 @@
 ---
 id: 86d7ade0-90de-4de9-90a3-24ed8958fc05
 created_at: 2026-09-17T15:59:30+08:00
-meta:
 filename: capabilities/water/L2/improvised-filter.md
 title: 简易过滤装置
 level: L2

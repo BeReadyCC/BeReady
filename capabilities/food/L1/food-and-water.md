@@ -1,7 +1,6 @@
 ---
 id: 7ecfd4af-dcab-497e-bd0b-697b5ae1353f
 created_at: 2026-09-17T16:34:28+08:00
-meta:
 filename: capabilities/food/L1/food-and-water.md
 title: 饮食与饮水
 level: L1

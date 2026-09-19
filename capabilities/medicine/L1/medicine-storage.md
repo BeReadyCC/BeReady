@@ -1,7 +1,6 @@
 ---
 id: deb16f86-4f9c-4155-8d76-81fc085ffa08
 created_at: 2026-09-17T22:54:01+08:00
-meta:
 filename: capabilities/medicine/L1/medicine-storage.md
 title: 药品储备
 level: L1

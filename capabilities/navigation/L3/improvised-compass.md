@@ -1,7 +1,6 @@
 ---
 id: b00e1336-f927-4341-a089-f2a3531fb6d0
 created_at: 2026-09-19T08:36:29+08:00
-meta:
 filename: capabilities/navigation/L3/improvised-compass.md
 title: 自制罗盘
 level: L3

@@ -1,7 +1,6 @@
 ---
 id: 54015303-6a67-4167-a344-bafec75818d0
 created_at: 2026-09-18T07:49:45+08:00
-meta:
 filename: capabilities/hygiene/L2/corpse-handling.md
 title: 尸体处理
 level: L2

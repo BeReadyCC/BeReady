@@ -1,7 +1,6 @@
 ---
 id: e4735fef-9860-4412-b142-dbbe3fcaf9b7
 created_at: 2026-09-17T20:33:18+08:00
-meta:
 filename: capabilities/safety/L1/hazard-recognition.md
 title: 危险识别
 level: L1

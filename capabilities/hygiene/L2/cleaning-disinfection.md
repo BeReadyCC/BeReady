@@ -1,7 +1,6 @@
 ---
 id: 280a2ea3-5a3d-4bb1-a52d-2fa409e3ec1f
 created_at: 2026-09-18T07:49:45+08:00
-meta:
 filename: capabilities/hygiene/L2/cleaning-disinfection.md
 title: 清洁与消毒
 level: L2

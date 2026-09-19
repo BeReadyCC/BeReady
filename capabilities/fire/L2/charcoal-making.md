@@ -1,7 +1,6 @@
 ---
 id: 2f1a6261-9d22-4d76-87a8-6532205b19e7
 created_at: 2026-09-17T22:30:23+08:00
-meta:
 filename: capabilities/fire/L2/charcoal-making.md
 title: 木炭制作
 level: L2

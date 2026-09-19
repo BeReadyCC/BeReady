@@ -1,7 +1,6 @@
 ---
 id: 6286d367-3eef-4dd8-be2d-e312a8be5ad3
 created_at: 2026-09-17T20:03:46+08:00
-meta:
 filename: capabilities/shelter/L1/choose-safe-location.md
 title: 选择安全位置
 level: L1

@@ -1,7 +1,6 @@
 ---
 id: 1391296b-8bc8-4779-a8b6-a656372a0fe6
 created_at: 2026-09-17T20:05:33+08:00
-meta:
 filename: capabilities/shelter/L1/sun-protection.md
 title: 防晒
 level: L1

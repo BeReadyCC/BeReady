@@ -1,7 +1,6 @@
 ---
 id: 285c9333-ab1c-438f-87e0-145b41e05549
 created_at: 2026-09-18T08:39:41+08:00
-meta:
 filename: capabilities/building/L1/simple-structures.md
 title: 简易建筑
 level: L1

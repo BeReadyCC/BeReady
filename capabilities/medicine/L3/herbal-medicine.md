@@ -1,7 +1,6 @@
 ---
 id: bdd8bc17-e37b-4b34-8ee0-b01642bf5c81
 created_at: 2026-09-19T08:00:46+08:00
-meta:
 filename: capabilities/medicine/L3/herbal-medicine.md
 title: 中草药
 level: L3

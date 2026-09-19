@@ -1,7 +1,6 @@
 ---
 id: cf836526-d578-49a6-a8bd-e3ef18856360
 created_at: 2026-09-17T16:39:20+08:00
-meta:
 filename: capabilities/food/L3/wild-food.md
 title: 野外可获得食物
 level: L3

@@ -1,7 +1,6 @@
 ---
 id: 1ce1f1e8-6369-4e75-a447-28b568c833a5
 created_at: 2026-09-19T10:02:58+08:00
-meta:
 filename: capabilities/production/L3/scaled-production.md
 title: 规模化生产
 level: L3

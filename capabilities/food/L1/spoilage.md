@@ -1,7 +1,6 @@
 ---
 id: 32c3e0f6-f01a-4bdf-b5ce-789ec444604d
 created_at: 2026-09-17T16:26:55+08:00
-meta:
 filename: capabilities/food/L1/spoilage.md
 title: 变质判断
 level: L1

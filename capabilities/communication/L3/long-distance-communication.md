@@ -1,7 +1,6 @@
 ---
 id: cb202ce4-9116-48bf-8885-c6665664975e
 created_at: 2026-09-19T09:10:45+08:00
-meta:
 filename: capabilities/communication/L3/long-distance-communication.md
 title: 长距离通信
 level: L3

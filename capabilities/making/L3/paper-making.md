@@ -1,7 +1,6 @@
 ---
 id: 989163c7-4e72-4075-b24f-6e19455efe66
 created_at: 2026-09-19T09:52:42+08:00
-meta:
 filename: capabilities/making/L3/paper-making.md
 title: 造纸
 level: L3

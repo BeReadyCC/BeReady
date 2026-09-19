@@ -1,7 +1,6 @@
 ---
 id: 6ee0ec0f-7670-43c3-b850-b4c85a6b67a2
 created_at: 2026-09-17T23:26:00+08:00
-meta:
 filename: capabilities/medicine/L2/drug-dosage-contraindications.md
 title: 药物剂量与禁忌
 level: L2

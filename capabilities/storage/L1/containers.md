@@ -1,7 +1,6 @@
 ---
 id: 4e498e88-424b-4ddd-983e-75e038097081
 created_at: 2026-09-18T08:16:42+08:00
-meta:
 filename: capabilities/storage/L1/containers.md
 title: 储存容器
 level: L1

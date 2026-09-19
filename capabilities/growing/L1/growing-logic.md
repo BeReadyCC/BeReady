@@ -1,7 +1,6 @@
 ---
 id: ae94be06-0e5e-4421-a195-6d850eddf7a3
 created_at: 2026-09-18T08:07:09+08:00
-meta:
 filename: capabilities/growing/L1/growing-logic.md
 title: 种植的基本逻辑
 level: L1

@@ -1,7 +1,6 @@
 ---
 id: 1f8cf66a-a600-43e8-9fe1-8f51a88cd35b
 created_at: 2026-09-17T22:38:21+08:00
-meta:
 filename: capabilities/safety/L2/danger-signals.md
 title: 危险信号
 level: L2

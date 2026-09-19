@@ -1,7 +1,6 @@
 ---
 id: 4e35b660-e13b-4f51-b0a0-9f28c5057d2e
 created_at: 2026-09-19T07:56:51+08:00
-meta:
 filename: capabilities/medicine/L3/distilling-alcohol.md
 title: 自制酒精
 level: L3

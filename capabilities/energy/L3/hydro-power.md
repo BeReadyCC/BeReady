@@ -1,7 +1,6 @@
 ---
 id: 7924e57f-3fa8-46c4-8734-ae12706269c5
 created_at: 2026-09-19T08:26:43+08:00
-meta:
 filename: capabilities/energy/L3/hydro-power.md
 title: 水力发电
 level: L3

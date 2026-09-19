@@ -1,7 +1,6 @@
 ---
 id: 2c393b23-1061-4e14-be48-f89f42d46ad0
 created_at: 2026-09-17T19:55:16+08:00
-meta:
 filename: capabilities/fire/L3/fire-for-food.md
 title: 火用于食物加工
 level: L3

@@ -1,7 +1,6 @@
 ---
 id: 94577806-728d-4840-85a6-21e684362e38
 created_at: 2026-09-18T08:13:48+08:00
-meta:
 filename: capabilities/energy/L2/mechanical-energy.md
 title: 机械能利用
 level: L2

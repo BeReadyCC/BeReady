@@ -1,7 +1,6 @@
 ---
 id: 1c36908f-a430-4a7d-8ba3-d34ea620e85a
 created_at: 2026-09-17T20:33:55+08:00
-meta:
 filename: capabilities/safety/L1/safe-distance.md
 title: 安全距离
 level: L1

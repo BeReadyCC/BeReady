@@ -1,7 +1,6 @@
 ---
 id: a6240c03-baea-4ede-bc6e-562e5301e259
 created_at: 2026-09-18T08:53:44+08:00
-meta:
 filename: capabilities/production/L2/raising-animals.md
 title: 基础养殖
 level: L2

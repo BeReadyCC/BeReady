@@ -1,7 +1,6 @@
 ---
 id: b4a5a1aa-dd5f-41a6-ad27-bf9547a05cab
 created_at: 2026-09-17T20:24:24+08:00
-meta:
 filename: capabilities/shelter/L3/knots.md
 title: 绳结
 level: L3

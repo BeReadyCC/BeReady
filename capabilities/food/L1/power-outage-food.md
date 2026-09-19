@@ -1,7 +1,6 @@
 ---
 id: a18e0142-c554-4044-a569-6b7a84c49e4d
 created_at: 2026-09-17T16:34:35+08:00
-meta:
 filename: capabilities/food/L1/power-outage-food.md
 title: 断电后的食物
 level: L1

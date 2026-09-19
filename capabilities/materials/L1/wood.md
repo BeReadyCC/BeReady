@@ -1,7 +1,6 @@
 ---
 id: 57586cef-8e64-4293-913f-1b6223e3bcf2
 created_at: 2026-09-18T08:44:58+08:00
-meta:
 filename: capabilities/materials/L1/wood.md
 title: 木材
 level: L1

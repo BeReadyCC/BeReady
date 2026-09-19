@@ -1,7 +1,6 @@
 ---
 id: 4a2e0658-0639-4b21-b789-266107b3ed0b
 created_at: 2026-09-18T08:10:09+08:00
-meta:
 filename: capabilities/navigation/L1/movement-and-position.md
 title: 行进与定位
 level: L1

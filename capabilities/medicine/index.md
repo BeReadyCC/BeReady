@@ -1,7 +1,6 @@
 ---
 id: add1324c-7a4b-4a22-879c-d25e80983044
 created_at: 2026-09-17T22:54:01+08:00
-meta:
 filename: capabilities/medicine/index.md
 title: 医疗
 level: capability

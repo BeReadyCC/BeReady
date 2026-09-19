@@ -1,7 +1,6 @@
 ---
 id: bd634225-d843-4b98-80d0-48c08b4aeb9b
 created_at: 2026-09-17T19:42:46+08:00
-meta:
 filename: capabilities/fire/L2/stove-fire.md
 title: 炉火
 level: L2

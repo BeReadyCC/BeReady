@@ -1,7 +1,6 @@
 ---
 id: 3336e1c1-ad90-4a08-bac2-9c0573d04dba
 created_at: 2026-09-18T08:40:01+08:00
-meta:
 filename: capabilities/building/L2/storage-building.md
 title: 仓库与储物棚
 level: L2

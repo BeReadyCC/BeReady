@@ -1,7 +1,6 @@
 ---
 id: 7a2392a8-94ce-4aae-89ec-b586b198beb9
 created_at: 2026-09-17T20:35:06+08:00
-meta:
 filename: capabilities/safety/L1/building-safety.md
 title: 建筑物基本安全
 level: L1

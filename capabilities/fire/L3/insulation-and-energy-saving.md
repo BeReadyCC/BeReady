@@ -2,7 +2,6 @@
 id: 4d9bdd95-4f2c-45e4-83cb-25c0d318e6b3
 created_at: 2026-09-18T15:22:18+08:00
 updated_at: 2026-09-18T15:22:18+08:00
-meta:
 filename: capabilities/fire/L3/insulation-and-energy-saving.md
 title: 保温与节能
 level: L3

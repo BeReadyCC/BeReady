@@ -1,7 +1,6 @@
 ---
 id: d5e0fd58-08e5-4d0b-86c8-32579d5da335
 created_at: 2026-09-18T08:09:47+08:00
-meta:
 filename: capabilities/navigation/L1/direction.md
 title: 方向判断
 level: L1

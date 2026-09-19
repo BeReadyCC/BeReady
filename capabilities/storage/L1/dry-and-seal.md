@@ -1,7 +1,6 @@
 ---
 id: 7a98a9a3-bcb6-40c0-bbf7-cac4218ef94d
 created_at: 2026-09-18T08:16:42+08:00
-meta:
 filename: capabilities/storage/L1/dry-and-seal.md
 title: 干燥与密封
 level: L1

@@ -1,7 +1,6 @@
 ---
 id: d2975fca-0f62-42bb-95aa-1b82eb313be2
 created_at: 2026-09-17T19:40:31+08:00
-meta:
 filename: capabilities/fire/L2/wood-fuel.md
 title: 木材燃料
 level: L2

@@ -1,7 +1,6 @@
 ---
 id: 4197dc21-c1d6-4fbf-a586-333520ee5566
 created_at: 2026-09-17T19:52:23+08:00
-meta:
 filename: capabilities/fire/L3/improvised-stove.md
 title: 简易炉具
 level: L3

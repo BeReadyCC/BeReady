@@ -1,7 +1,6 @@
 ---
 id: edbb05c1-638d-4132-a151-4e760dc0ef29
 created_at: 2026-09-18T08:10:52+08:00
-meta:
 filename: capabilities/navigation/index.md
 title: 导航
 level: capability

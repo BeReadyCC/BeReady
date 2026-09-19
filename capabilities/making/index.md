@@ -1,7 +1,6 @@
 ---
 id: 5dd5bb7a-d88b-435f-bbc5-4df4d62aac93
 created_at: 2026-09-18T08:29:56+08:00
-meta:
 filename: capabilities/making/index.md
 title: 制作
 level: capability

@@ -1,7 +1,6 @@
 ---
 id: e320f6fc-7c1c-422e-9262-9144937812de
 created_at: 2026-09-17T21:38:11+08:00
-meta:
 filename: spec/BeReady 创作约束（AI 接力）.md
 title: BeReady 创作约束（AI 接力）
 status: active
@@ -98,7 +97,6 @@ status: active
 
 ```yaml
 ---
-meta:
 filename: capabilities/{capability}/{level}/{node}.md   # 与实际路径一致
 title: {全库唯一，与正文 H1 一致}                         # Wikilink 第一解析目标
 level: L1                                               # 与所在目录一致

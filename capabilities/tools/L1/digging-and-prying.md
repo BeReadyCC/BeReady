@@ -1,7 +1,6 @@
 ---
 id: 8d0312e9-039b-4c25-b38b-70247d207ae0
 created_at: 2026-09-18T08:00:45+08:00
-meta:
 filename: capabilities/tools/L1/digging-and-prying.md
 title: 挖掘与撬动
 level: L1

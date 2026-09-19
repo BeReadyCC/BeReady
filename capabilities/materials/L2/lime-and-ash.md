@@ -1,7 +1,6 @@
 ---
 id: c6af2ca1-1ef9-4031-9629-185616e869fa
 created_at: 2026-09-18T08:45:57+08:00
-meta:
 filename: capabilities/materials/L2/lime-and-ash.md
 title: 石灰与草木灰
 level: L2

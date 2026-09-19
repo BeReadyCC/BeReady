@@ -1,7 +1,6 @@
 ---
 id: 24d50fe1-d50b-4811-a5ad-09817c36d0d5
 created_at: 2026-09-18T08:00:45+08:00
-meta:
 filename: capabilities/tools/L2/sharpening.md
 title: 磨刀
 level: L2

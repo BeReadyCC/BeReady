@@ -1,7 +1,6 @@
 ---
 id: 8e1f0198-e3ae-472d-b52c-114a24d984fa
 created_at: 2026-09-18T08:07:09+08:00
-meta:
 filename: capabilities/growing/L1/sowing.md
 title: 播种
 level: L1

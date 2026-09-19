@@ -1,7 +1,6 @@
 ---
 id: a6a083e4-0c6d-47d5-a623-070197987433
 created_at: 2026-09-18T07:49:30+08:00
-meta:
 filename: capabilities/hygiene/L1/garbage-disposal.md
 title: 垃圾处理
 level: L1

@@ -1,7 +1,6 @@
 ---
 id: 78be74ca-80a0-4433-ba5b-022345a80521
 created_at: 2026-09-17T23:26:00+08:00
-meta:
 filename: capabilities/medicine/L2/antibiotic-use.md
 title: 抗生素的谨慎使用
 level: L2

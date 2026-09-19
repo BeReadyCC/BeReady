@@ -1,7 +1,6 @@
 ---
 id: 2c54200a-08dd-4fb2-a571-208b7642a906
 created_at: 2026-09-17T20:05:33+08:00
-meta:
 filename: capabilities/shelter/L1/keep-warm.md
 title: 保暖
 level: L1

@@ -1,7 +1,6 @@
 ---
 id: e855c5d5-0a36-496e-9295-1e1162591d69
 created_at: 2026-09-18T08:44:46+08:00
-meta:
 filename: capabilities/materials/L1/materials-logic.md
 title: 材料的基本逻辑
 level: L1

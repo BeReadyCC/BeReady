@@ -1,7 +1,6 @@
 ---
 id: 5f297e72-f4b7-4ff2-a192-38e83dd89eff
 created_at: 2026-09-19T09:10:45+08:00
-meta:
 filename: capabilities/communication/L3/self-made-radio.md
 title: 简易无线电制作
 level: L3

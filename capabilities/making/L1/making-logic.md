@@ -1,7 +1,6 @@
 ---
 id: 6e96bb97-a8fb-4416-868b-84029b70c915
 created_at: 2026-09-18T08:29:56+08:00
-meta:
 filename: capabilities/making/L1/making-logic.md
 title: 制作的基本逻辑
 level: L1

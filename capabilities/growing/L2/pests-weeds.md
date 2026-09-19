@@ -1,7 +1,6 @@
 ---
 id: 34702b98-a1ed-4522-a075-b20da3141db0
 created_at: 2026-09-18T08:07:48+08:00
-meta:
 filename: capabilities/growing/L2/pests-weeds.md
 title: 杂草与病虫害
 level: L2

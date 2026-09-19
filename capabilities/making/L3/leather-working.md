@@ -1,7 +1,6 @@
 ---
 id: 082ce34b-1e69-43d8-939c-9ac9753a9ca2
 created_at: 2026-09-19T09:52:42+08:00
-meta:
 filename: capabilities/making/L3/leather-working.md
 title: 皮革制作
 level: L3

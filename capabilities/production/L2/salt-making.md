@@ -1,7 +1,6 @@
 ---
 id: 249aa7eb-6356-4f59-b620-96b24135f0bb
 created_at: 2026-09-19T07:50:22+08:00
-meta:
 filename: capabilities/production/L2/salt-making.md
 title: 制盐
 level: L2

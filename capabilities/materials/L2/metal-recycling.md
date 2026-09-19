@@ -1,7 +1,6 @@
 ---
 id: 2fedb496-fa53-4782-af8a-222aa4114d85
 created_at: 2026-09-18T08:45:42+08:00
-meta:
 filename: capabilities/materials/L2/metal-recycling.md
 title: 金属回收
 level: L2

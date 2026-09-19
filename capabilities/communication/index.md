@@ -1,7 +1,6 @@
 ---
 id: 9a7a0b0f-f026-44e8-b559-1ffa81b4da7a
 created_at: 2026-09-18T08:19:51+08:00
-meta:
 filename: capabilities/communication/index.md
 title: 通信
 level: capability

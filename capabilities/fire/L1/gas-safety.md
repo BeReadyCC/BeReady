@@ -1,7 +1,6 @@
 ---
 id: 02af8977-90a7-402a-823f-535587dd8a93
 created_at: 2026-09-17T19:32:52+08:00
-meta:
 filename: capabilities/fire/L1/gas-safety.md
 title: 燃气安全
 level: L1

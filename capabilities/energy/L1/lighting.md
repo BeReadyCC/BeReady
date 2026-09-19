@@ -1,7 +1,6 @@
 ---
 id: 9ad6fa8b-3b1f-48f7-bd37-b06602c546ce
 created_at: 2026-09-18T08:13:48+08:00
-meta:
 filename: capabilities/energy/L1/lighting.md
 title: 照明
 level: L1

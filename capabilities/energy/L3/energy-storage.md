@@ -1,7 +1,6 @@
 ---
 id: 3a78d411-83b5-4c08-a0bd-b8179d6942ea
 created_at: 2026-09-19T08:26:43+08:00
-meta:
 filename: capabilities/energy/L3/energy-storage.md
 title: 长期储能
 level: L3

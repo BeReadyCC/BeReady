@@ -1,7 +1,6 @@
 ---
 id: 51f69acd-68f2-48af-9415-3b9cff0f636b
 created_at: 2026-09-17T20:15:52+08:00
-meta:
 filename: capabilities/shelter/L2/space-insulation.md
 title: 保温
 level: L2

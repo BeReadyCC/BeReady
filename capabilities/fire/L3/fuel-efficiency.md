@@ -1,7 +1,6 @@
 ---
 id: d92b1caa-b3ef-413b-b4e3-3acee7077c5b
 created_at: 2026-09-17T19:52:59+08:00
-meta:
 filename: capabilities/fire/L3/fuel-efficiency.md
 title: 燃料效率
 level: L3

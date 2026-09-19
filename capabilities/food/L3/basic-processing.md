@@ -1,7 +1,6 @@
 ---
 id: 8be8f790-fc62-4279-92e3-69e2f203ab0e
 created_at: 2026-09-17T16:39:58+08:00
-meta:
 filename: capabilities/food/L3/basic-processing.md
 title: 基础加工
 level: L3

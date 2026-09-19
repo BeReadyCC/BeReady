@@ -1,7 +1,6 @@
 ---
 id: 7e8b872c-7020-4cdb-8fd4-1c0a6359ada3
 created_at: 2026-09-19T08:26:43+08:00
-meta:
 filename: capabilities/energy/L3/solar-power.md
 title: 太阳能发电
 level: L3

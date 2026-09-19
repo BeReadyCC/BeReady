@@ -1,5 +1,4 @@
 ---
-meta:
 filename: capabilities/materials/L3/chemistry.md
 title: 化工
 level: L3

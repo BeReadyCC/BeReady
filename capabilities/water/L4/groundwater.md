@@ -1,7 +1,6 @@
 ---
 id: 80c707ed-cf9c-4928-8620-2f488059687b
 created_at: 2026-09-18T08:56:55+08:00
-meta:
 filename: capabilities/water/L4/groundwater.md
 title: 地下水
 level: L4

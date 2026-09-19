@@ -1,7 +1,6 @@
 ---
 id: 68131e0e-1818-4156-b1cd-a6c9e6accff2
 created_at: 2026-09-19T08:58:13+08:00
-meta:
 filename: capabilities/storage/L3/long-term-storage-system.md
 title: 长期储存系统
 level: L3

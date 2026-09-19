@@ -1,7 +1,6 @@
 ---
 id: 95d4ab2b-8358-48dc-a711-31578bb7ae5b
 created_at: 2026-09-17T22:54:01+08:00
-meta:
 filename: capabilities/medicine/L1/common-medicines.md
 title: 常见药品及用途
 level: L1

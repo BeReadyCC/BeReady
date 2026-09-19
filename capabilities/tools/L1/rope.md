@@ -1,7 +1,6 @@
 ---
 id: 90075394-a4fa-49c2-8b78-9cc193037dbf
 created_at: 2026-09-18T08:00:45+08:00
-meta:
 filename: capabilities/tools/L1/rope.md
 title: 绳索
 level: L1

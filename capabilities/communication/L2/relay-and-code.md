@@ -1,7 +1,6 @@
 ---
 id: 2888761e-4261-4ccb-b3da-f62356c193aa
 created_at: 2026-09-18T08:19:38+08:00
-meta:
 filename: capabilities/communication/L2/relay-and-code.md
 title: 人力传递与约定
 level: L2

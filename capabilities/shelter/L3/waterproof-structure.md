@@ -1,7 +1,6 @@
 ---
 id: 50512bf4-6610-493a-a654-2944eec01a2c
 created_at: 2026-09-17T20:26:55+08:00
-meta:
 filename: capabilities/shelter/L3/waterproof-structure.md
 title: 防水结构
 level: L3

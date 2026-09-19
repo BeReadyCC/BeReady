@@ -1,7 +1,6 @@
 ---
 id: 44d93b1a-7838-4e3c-8502-d8b63906f6ac
 created_at: 2026-09-17T19:51:13+08:00
-meta:
 filename: capabilities/fire/L3/alternative-ignition.md
 title: 不同点火方式
 level: L3

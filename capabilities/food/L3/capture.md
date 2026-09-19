@@ -1,7 +1,6 @@
 ---
 id: d7ac97e9-6c76-4285-a081-d83b32db008f
 created_at: 2026-09-17T16:39:44+08:00
-meta:
 filename: capabilities/food/L3/capture.md
 title: 捕获
 level: L3

@@ -1,7 +1,6 @@
 ---
 id: 3f3521c0-5259-4639-8e92-2fc207baa976
 created_at: 2026-09-18T08:09:56+08:00
-meta:
 filename: capabilities/navigation/L1/map-and-terrain.md
 title: 地图与地形
 level: L1

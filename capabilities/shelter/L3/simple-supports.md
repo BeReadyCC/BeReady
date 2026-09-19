@@ -1,7 +1,6 @@
 ---
 id: 1cea6eb5-40c8-49c2-a989-cab1cb886262
 created_at: 2026-09-17T20:24:52+08:00
-meta:
 filename: capabilities/shelter/L3/simple-supports.md
 title: 简单支撑
 level: L3

@@ -1,7 +1,6 @@
 ---
 id: 7c5b9e85-bbd7-4c2c-8170-71b63413b199
 created_at: 2026-09-18T08:00:45+08:00
-meta:
 filename: capabilities/tools/L2/improvised-tools.md
 title: 简易工具制作
 level: L2

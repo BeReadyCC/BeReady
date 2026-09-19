@@ -1,7 +1,6 @@
 ---
 id: dd0bba39-bfaa-4d3f-9f4c-d511cddbc512
 created_at: 2026-09-17T16:39:20+08:00
-meta:
 filename: capabilities/food/L3/safe-identification.md
 title: 安全识别食物
 level: L3

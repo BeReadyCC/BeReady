@@ -1,7 +1,6 @@
 ---
 id: 934b727a-f7aa-429f-9ed8-5ed60f9fdc4b
 created_at: 2026-09-18T08:38:37+08:00
-meta:
 filename: capabilities/building/index.md
 title: 建造
 level: capability

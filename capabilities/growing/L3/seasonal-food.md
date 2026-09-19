@@ -1,7 +1,6 @@
 ---
 id: 0275fdec-431a-45d8-b272-ef8385d81869
 created_at: 2026-09-19T08:20:39+08:00
-meta:
 filename: capabilities/growing/L3/seasonal-food.md
 title: 季节性食物
 level: L3

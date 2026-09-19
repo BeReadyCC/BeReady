@@ -1,7 +1,6 @@
 ---
 id: 4e9943f1-3abe-45f3-8ace-9f18278815ba
 created_at: 2026-09-19T09:52:42+08:00
-meta:
 filename: capabilities/repair/L3/complex-machinery-repair.md
 title: 复杂机械修理
 level: L3

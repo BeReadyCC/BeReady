@@ -1,7 +1,6 @@
 ---
 id: 9edd3a0a-c3ca-4ff4-bd1b-2bef77c6e761
 created_at: 2026-09-17T16:34:19+08:00
-meta:
 filename: capabilities/food/L1/avoid-waste.md
 title: 避免食物浪费
 level: L1

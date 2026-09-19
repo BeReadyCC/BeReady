@@ -1,7 +1,6 @@
 ---
 id: 41e40e6b-8d8e-4fdb-a740-3df0ccc77e49
 created_at: 2026-09-19T09:52:42+08:00
-meta:
 filename: capabilities/repair/L3/metal-welding.md
 title: 金属焊接
 level: L3

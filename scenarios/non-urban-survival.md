@@ -1,7 +1,6 @@
 ---
 id: 7ae0ae9b-8b98-46e5-b55a-965aa2f6d108
 created_at: 2026-09-19T08:02:10+08:00
-meta:
 filename: scenarios/non-urban-survival.md
 title: 非城市场景
 level: topic

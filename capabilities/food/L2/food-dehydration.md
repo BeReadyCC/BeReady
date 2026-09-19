@@ -1,7 +1,6 @@
 ---
 id: 93a24ab1-7547-44ba-9352-85dd5321d525
 created_at: 2026-09-17T16:35:38+08:00
-meta:
 filename: capabilities/food/L2/food-dehydration.md
 title: 食物脱水
 level: L2

@@ -1,7 +1,6 @@
 ---
 id: b15c5304-f194-49c3-955b-be8589a02dca
 created_at: 2026-09-18T08:39:41+08:00
-meta:
 filename: capabilities/building/L2/fencing-and-enclosure.md
 title: 围栏与圈舍
 level: L2

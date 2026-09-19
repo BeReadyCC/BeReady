@@ -1,7 +1,6 @@
 ---
 id: cd1e470e-ded4-4021-9c90-b3dfc394b2b0
 created_at: 2026-09-18T08:13:48+08:00
-meta:
 filename: capabilities/energy/L2/lamp-and-candle-making.md
 title: 简易油灯与蜡烛
 level: L2

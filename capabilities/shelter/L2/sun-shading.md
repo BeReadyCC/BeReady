@@ -1,7 +1,6 @@
 ---
 id: 4366defb-91bf-4e40-9aa1-b6da1bcd33d9
 created_at: 2026-09-17T20:16:24+08:00
-meta:
 filename: capabilities/shelter/L2/sun-shading.md
 title: 遮阳
 level: L2

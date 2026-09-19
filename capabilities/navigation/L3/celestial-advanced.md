@@ -1,7 +1,6 @@
 ---
 id: e120e948-3e98-4e6c-a278-1edc0609eebe
 created_at: 2026-09-19T08:36:29+08:00
-meta:
 filename: capabilities/navigation/L3/celestial-advanced.md
 title: 天体导航进阶
 level: L3

@@ -1,7 +1,6 @@
 ---
 id: e43b2c65-a570-4db9-977c-7cf36bc0e02b
 created_at: 2026-09-17T20:23:50+08:00
-meta:
 filename: capabilities/shelter/L3/wood-joinery.md
 title: 木材连接
 level: L3

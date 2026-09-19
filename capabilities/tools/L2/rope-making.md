@@ -1,7 +1,6 @@
 ---
 id: fd821fca-3a80-453e-87f0-68a0ea6c7b56
 created_at: 2026-09-18T08:00:45+08:00
-meta:
 filename: capabilities/tools/L2/rope-making.md
 title: 自制绳索
 level: L2

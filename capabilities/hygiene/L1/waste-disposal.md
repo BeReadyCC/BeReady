@@ -1,7 +1,6 @@
 ---
 id: d464b3e7-7a51-42a5-afb9-755a13f14337
 created_at: 2026-09-18T07:49:30+08:00
-meta:
 filename: capabilities/hygiene/L1/waste-disposal.md
 title: 粪便处理
 level: L1

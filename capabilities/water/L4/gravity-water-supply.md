@@ -1,7 +1,6 @@
 ---
 id: 13082e88-c752-4bc7-b6c6-f2212f29fd69
 created_at: 2026-09-19T08:30:37+08:00
-meta:
 filename: capabilities/water/L4/gravity-water-supply.md
 title: 重力供水
 level: L4

@@ -1,7 +1,6 @@
 ---
 id: 831bcc1a-c312-4b62-b0f5-4af44010a5f9
 created_at: 2026-09-19T08:58:13+08:00
-meta:
 filename: capabilities/tools/L3/tool-maintenance.md
 title: 工具维护
 level: L3

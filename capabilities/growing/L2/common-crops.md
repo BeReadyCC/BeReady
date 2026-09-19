@@ -1,7 +1,6 @@
 ---
 id: 51ea6ebe-0ce7-49cb-8501-71748f28ee4b
 created_at: 2026-09-18T08:07:48+08:00
-meta:
 filename: capabilities/growing/L2/common-crops.md
 title: 常见作物
 level: L2

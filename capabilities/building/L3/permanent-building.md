@@ -1,5 +1,4 @@
 ---
-meta:
 filename: capabilities/building/L3/permanent-building.md
 title: 永久建筑
 level: L3

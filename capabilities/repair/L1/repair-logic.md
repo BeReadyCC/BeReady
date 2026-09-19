@@ -1,7 +1,6 @@
 ---
 id: f54f5fe6-9545-4586-84ed-0ff5b69ef773
 created_at: 2026-09-18T08:22:33+08:00
-meta:
 filename: capabilities/repair/L1/repair-logic.md
 title: 修理的基本逻辑
 level: L1

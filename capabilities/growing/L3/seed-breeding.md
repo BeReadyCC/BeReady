@@ -1,7 +1,6 @@
 ---
 id: 89db3931-39e4-4db5-a90b-c627e128e213
 created_at: 2026-09-19T08:20:39+08:00
-meta:
 filename: capabilities/growing/L3/seed-breeding.md
 title: 育种选种
 level: L3

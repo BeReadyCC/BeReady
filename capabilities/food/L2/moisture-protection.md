@@ -1,7 +1,6 @@
 ---
 id: e1aa5255-2635-44d7-ba3c-1218c261be63
 created_at: 2026-09-17T16:35:12+08:00
-meta:
 filename: capabilities/food/L2/moisture-protection.md
 title: 食物防潮
 level: L2

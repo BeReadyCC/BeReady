@@ -1,7 +1,6 @@
 ---
 id: 2514f052-dbfb-4932-b068-74e4f6fc95fb
 created_at: 2026-09-18T07:49:30+08:00
-meta:
 filename: capabilities/hygiene/L1/hand-washing.md
 title: 洗手
 level: L1

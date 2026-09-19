@@ -1,7 +1,6 @@
 ---
 id: de81dc35-4ca8-4202-8abc-89e3e4c88c1f
 created_at: 2026-09-17T19:28:02+08:00
-meta:
 filename: capabilities/fire/L1/basic-fuel.md
 title: 基本燃料
 level: L1

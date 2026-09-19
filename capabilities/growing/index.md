@@ -1,7 +1,6 @@
 ---
 id: 7ee358f6-4913-4d6c-8107-ad0f3e2ad5af
 created_at: 2026-09-18T08:06:47+08:00
-meta:
 filename: capabilities/growing/index.md
 title: 种植
 level: capability

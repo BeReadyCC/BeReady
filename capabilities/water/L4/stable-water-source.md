@@ -1,7 +1,6 @@
 ---
 id: 281d19e3-850f-4587-a6f0-dd7155cbeb57
 created_at: 2026-09-18T08:56:45+08:00
-meta:
 filename: capabilities/water/L4/stable-water-source.md
 title: 稳定水源
 level: L4

@@ -1,7 +1,6 @@
 ---
 id: d0bf40d5-3a21-41e2-a75d-776967a5d67f
 created_at: 2026-09-18T08:13:48+08:00
-meta:
 filename: capabilities/energy/index.md
 title: 能源
 level: capability

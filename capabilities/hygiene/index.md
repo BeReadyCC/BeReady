@@ -1,7 +1,6 @@
 ---
 id: 998c54ff-b76d-4a71-b4c3-7714cde49464
 created_at: 2026-09-18T07:49:30+08:00
-meta:
 filename: capabilities/hygiene/index.md
 title: 卫生
 level: capability

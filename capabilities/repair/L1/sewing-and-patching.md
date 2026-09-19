@@ -1,7 +1,6 @@
 ---
 id: ef539275-cb9e-4971-a688-cbe55c174619
 created_at: 2026-09-18T08:22:47+08:00
-meta:
 filename: capabilities/repair/L1/sewing-and-patching.md
 title: 缝补
 level: L1

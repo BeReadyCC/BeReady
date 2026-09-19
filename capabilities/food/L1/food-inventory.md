@@ -1,7 +1,6 @@
 ---
 id: 1a9cd3d2-f352-44b2-9e5f-c3f1f9436346
 created_at: 2026-09-17T16:26:55+08:00
-meta:
 filename: capabilities/food/L1/food-inventory.md
 title: 清点现有食物
 level: L1

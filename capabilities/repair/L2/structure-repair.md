@@ -1,7 +1,6 @@
 ---
 id: 8fd95f63-c1a5-47d7-b451-707f9dc6a1d2
 created_at: 2026-09-18T08:23:01+08:00
-meta:
 filename: capabilities/repair/L2/structure-repair.md
 title: 简易结构修理
 level: L2

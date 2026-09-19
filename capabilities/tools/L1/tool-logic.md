@@ -1,7 +1,6 @@
 ---
 id: be11909b-dfea-42f0-9e92-5e2c27aa1693
 created_at: 2026-09-18T08:00:45+08:00
-meta:
 filename: capabilities/tools/L1/tool-logic.md
 title: 工具的基本逻辑
 level: L1

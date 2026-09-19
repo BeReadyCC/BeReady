@@ -1,7 +1,6 @@
 ---
 id: 0ba23f2d-03f3-42c3-bb28-b1fa0b1eb20e
 created_at: 2026-09-17T20:34:26+08:00
-meta:
 filename: capabilities/safety/L1/danger-zones.md
 title: 危险区域
 level: L1

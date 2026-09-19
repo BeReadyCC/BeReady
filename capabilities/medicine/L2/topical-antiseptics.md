@@ -1,7 +1,6 @@
 ---
 id: d8e0f8d1-52cd-4e19-b3ea-ed09a86ae245
 created_at: 2026-09-17T23:26:00+08:00
-meta:
 filename: capabilities/medicine/L2/topical-antiseptics.md
 title: 外用药与消毒
 level: L2

@@ -1,7 +1,6 @@
 ---
 id: 01047513-5c04-4cd3-ab35-dcf06b7f7021
 created_at: 2026-09-18T08:22:54+08:00
-meta:
 filename: capabilities/repair/L2/tool-repair.md
 title: 工具修理
 level: L2

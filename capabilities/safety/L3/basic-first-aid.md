@@ -1,7 +1,6 @@
 ---
 id: 83881ead-ca93-442d-8d4b-84ee106d2a2b
 created_at: 2026-09-17T22:46:29+08:00
-meta:
 filename: capabilities/safety/L3/basic-first-aid.md
 title: 基础急救
 level: L3

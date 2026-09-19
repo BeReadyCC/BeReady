@@ -1,7 +1,6 @@
 ---
 id: f641895a-227b-4e5e-8f22-d04e3c357560
 created_at: 2026-09-18T08:53:44+08:00
-meta:
 filename: capabilities/production/index.md
 title: 生产
 level: capability

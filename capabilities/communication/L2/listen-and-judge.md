@@ -1,7 +1,6 @@
 ---
 id: f518f1b4-3711-41ed-ac64-ab12c45167da
 created_at: 2026-09-18T08:19:38+08:00
-meta:
 filename: capabilities/communication/L2/listen-and-judge.md
 title: 获取与判断信息
 level: L2

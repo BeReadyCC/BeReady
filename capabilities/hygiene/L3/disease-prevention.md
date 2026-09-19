@@ -1,7 +1,6 @@
 ---
 id: 5bb39e36-472b-49a1-816c-5225b37b9768
 created_at: 2026-09-19T08:13:23+08:00
-meta:
 filename: capabilities/hygiene/L3/disease-prevention.md
 title: 疫病预防
 level: L3

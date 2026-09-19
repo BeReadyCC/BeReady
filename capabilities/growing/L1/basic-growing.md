@@ -1,7 +1,6 @@
 ---
 id: 274bd83a-6efe-419f-96ee-eec531f2fd14
 created_at: 2026-09-18T08:07:09+08:00
-meta:
 filename: capabilities/growing/L1/basic-growing.md
 title: 基础种植
 level: L1

@@ -1,7 +1,6 @@
 ---
 id: 68f88e87-49f2-43cf-bc4d-31ec1cfd9b97
 created_at: 2026-09-17T20:27:26+08:00
-meta:
 filename: capabilities/shelter/L3/structure-inspection-repair.md
 title: 结构检查与修复
 level: L3

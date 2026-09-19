@@ -1,7 +1,6 @@
 ---
 id: e1200d63-c749-4c65-afd9-f67249dbe8ba
 created_at: 2026-09-18T08:44:23+08:00
-meta:
 filename: capabilities/materials/index.md
 title: 材料
 level: capability

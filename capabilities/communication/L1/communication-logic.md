@@ -1,7 +1,6 @@
 ---
 id: e7d33fcf-edc0-456d-b545-acfc0bbe0837
 created_at: 2026-09-18T08:19:38+08:00
-meta:
 filename: capabilities/communication/L1/communication-logic.md
 title: 通信的基本逻辑
 level: L1

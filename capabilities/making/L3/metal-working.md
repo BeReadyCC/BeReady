@@ -1,7 +1,6 @@
 ---
 id: 40c1fb17-df57-4eb0-bd1d-6d8216aca78d
 created_at: 2026-09-19T09:52:42+08:00
-meta:
 filename: capabilities/making/L3/metal-working.md
 title: 金属加工
 level: L3

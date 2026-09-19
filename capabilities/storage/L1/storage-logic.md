@@ -1,7 +1,6 @@
 ---
 id: 3b3b95c7-8999-4742-8f09-39b9f40f8fd1
 created_at: 2026-09-18T08:16:42+08:00
-meta:
 filename: capabilities/storage/L1/storage-logic.md
 title: 储存的基本逻辑
 level: L1
@@ -33,7 +32,7 @@ status: draft
 
 * 先入库的先吃、先用药、先用。
 * 新到的放后排，旧的挪到前排、手边。
-* 食物轮换见 [[食物轮换]]，储水轮换见 [[储水轮换]]。
+* 食物轮换见 [[食物轮换]]，储水轮换见 [[长期储水与轮换]]。
 
 ## 注意
 

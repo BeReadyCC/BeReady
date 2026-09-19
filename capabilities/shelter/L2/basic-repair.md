@@ -1,7 +1,6 @@
 ---
 id: f8474de6-a43f-453f-b9f4-889749a8d986
 created_at: 2026-09-17T20:16:56+08:00
-meta:
 filename: capabilities/shelter/L2/basic-repair.md
 title: 简单修补
 level: L2

@@ -1,7 +1,6 @@
 ---
 id: d071c1e6-930c-4652-b736-ec7ad0a17e46
 created_at: 2026-09-18T08:22:25+08:00
-meta:
 filename: capabilities/repair/index.md
 title: 修理
 level: capability

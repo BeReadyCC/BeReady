@@ -1,7 +1,6 @@
 ---
 id: 9ac85d22-64a0-4cf2-8249-46c1b2e012f3
 created_at: 2026-09-18T07:49:30+08:00
-meta:
 filename: capabilities/hygiene/L1/personal-hygiene.md
 title: 个人清洁
 level: L1

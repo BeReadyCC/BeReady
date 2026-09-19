@@ -1,7 +1,6 @@
 ---
 id: 203ef9f1-c4f3-48ed-8d12-138dfc34d308
 created_at: 2026-09-18T08:53:44+08:00
-meta:
 filename: capabilities/production/L1/production-logic.md
 title: 生产的基本逻辑
 level: L1

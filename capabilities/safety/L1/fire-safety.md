@@ -1,7 +1,6 @@
 ---
 id: 536f08e0-421c-458b-b677-2420dfef22a4
 created_at: 2026-09-17T20:35:36+08:00
-meta:
 filename: capabilities/safety/L1/fire-safety.md
 title: 火灾安全
 level: L1

@@ -1,7 +1,6 @@
 ---
 id: 25b958bb-2d0f-4247-9a7b-751cacad22e6
 created_at: 2026-09-19T09:10:45+08:00
-meta:
 filename: capabilities/tools/L3/batch-tool-making.md
 title: 批量工具制作
 level: L3

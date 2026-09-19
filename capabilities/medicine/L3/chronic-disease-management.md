@@ -1,7 +1,6 @@
 ---
 id: 12e9b9e4-fca3-468d-9162-bbb551e73294
 created_at: 2026-09-17T23:26:00+08:00
-meta:
 filename: capabilities/medicine/L3/chronic-disease-management.md
 title: 慢性病长期管理
 level: L3

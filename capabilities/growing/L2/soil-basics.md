@@ -1,7 +1,6 @@
 ---
 id: a79222f1-078c-4293-834f-18a40807249f
 created_at: 2026-09-18T08:07:48+08:00
-meta:
 filename: capabilities/growing/L2/soil-basics.md
 title: 土壤基础
 level: L2

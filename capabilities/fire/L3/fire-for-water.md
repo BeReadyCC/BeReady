@@ -1,7 +1,6 @@
 ---
 id: 5494dc81-9615-4146-ad52-b8f95151c44b
 created_at: 2026-09-17T19:54:42+08:00
-meta:
 filename: capabilities/fire/L3/fire-for-water.md
 title: 火用于饮水处理
 level: L3

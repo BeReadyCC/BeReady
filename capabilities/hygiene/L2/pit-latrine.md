@@ -1,7 +1,6 @@
 ---
 id: 23337e85-6bfe-4142-839d-92733c8c93a7
 created_at: 2026-09-18T07:49:45+08:00
-meta:
 filename: capabilities/hygiene/L2/pit-latrine.md
 title: 旱厕
 level: L2

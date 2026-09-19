@@ -1,7 +1,6 @@
 ---
 id: af6439af-b365-49df-8318-0eea66c727b5
 created_at: 2026-09-17T19:51:46+08:00
-meta:
 filename: capabilities/fire/L3/alternative-fuel.md
 title: 不同燃料
 level: L3

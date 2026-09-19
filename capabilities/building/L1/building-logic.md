@@ -1,7 +1,6 @@
 ---
 id: 12fa337f-ed42-48ac-a26e-8f7f1e744576
 created_at: 2026-09-18T08:38:37+08:00
-meta:
 filename: capabilities/building/L1/building-logic.md
 title: 建造的基本逻辑
 level: L1

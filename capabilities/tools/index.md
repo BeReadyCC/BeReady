@@ -1,7 +1,6 @@
 ---
 id: 88c7ba6b-29ce-480f-a4db-1b459c7e23b4
 created_at: 2026-09-18T08:00:45+08:00
-meta:
 filename: capabilities/tools/index.md
 title: 工具
 level: capability

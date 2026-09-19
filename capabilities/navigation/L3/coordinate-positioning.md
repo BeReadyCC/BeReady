@@ -1,7 +1,6 @@
 ---
 id: 5be355a9-a5bf-4834-91ee-8e990fb46e8c
 created_at: 2026-09-19T08:36:29+08:00
-meta:
 filename: capabilities/navigation/L3/coordinate-positioning.md
 title: 坐标定位
 level: L3

@@ -1,7 +1,6 @@
 ---
 id: 7154fde1-c985-4296-bb15-87c235f2a895
 created_at: 2026-09-17T20:06:28+08:00
-meta:
 filename: capabilities/shelter/L1/stay-dry.md
 title: 保持干燥
 level: L1

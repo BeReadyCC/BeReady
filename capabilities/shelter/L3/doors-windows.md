@@ -1,7 +1,6 @@
 ---
 id: 279f081e-04ed-48bb-ba52-1232ae1894ba
 created_at: 2026-09-17T20:26:28+08:00
-meta:
 filename: capabilities/shelter/L3/doors-windows.md
 title: 门窗
 level: L3

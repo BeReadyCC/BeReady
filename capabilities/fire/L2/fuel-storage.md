@@ -1,7 +1,6 @@
 ---
 id: 66574f6b-3589-4786-85cc-2991191b50dd
 created_at: 2026-09-17T19:41:33+08:00
-meta:
 filename: capabilities/fire/L2/fuel-storage.md
 title: 燃料储存
 level: L2

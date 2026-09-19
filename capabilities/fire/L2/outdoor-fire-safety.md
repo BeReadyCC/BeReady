@@ -1,7 +1,6 @@
 ---
 id: 00e5ba69-1698-4fd9-a05b-f0f9bdbde9df
 created_at: 2026-09-17T19:43:59+08:00
-meta:
 filename: capabilities/fire/L2/outdoor-fire-safety.md
 title: 室外用火安全
 level: L2

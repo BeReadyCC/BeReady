@@ -1,7 +1,6 @@
 ---
 id: 68743429-ac20-4630-9a7e-08cd951e2a98
 created_at: 2026-09-19T08:15:06+08:00
-meta:
 filename: capabilities/tools/L3/metal-tools.md
 title: 金属工具
 level: L3

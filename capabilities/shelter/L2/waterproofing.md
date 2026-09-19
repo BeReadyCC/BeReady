@@ -1,7 +1,6 @@
 ---
 id: e9487b87-ef03-4ae8-adde-72fcc3f75e2d
 created_at: 2026-09-17T20:14:50+08:00
-meta:
 filename: capabilities/shelter/L2/waterproofing.md
 title: 防水
 level: L2

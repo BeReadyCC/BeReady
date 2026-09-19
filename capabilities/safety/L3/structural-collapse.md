@@ -1,7 +1,6 @@
 ---
 id: 97cc7061-5768-4b17-a5de-fe4af1bf5dd9
 created_at: 2026-09-17T22:46:45+08:00
-meta:
 filename: capabilities/safety/L3/structural-collapse.md
 title: 建筑坍塌风险
 level: L3

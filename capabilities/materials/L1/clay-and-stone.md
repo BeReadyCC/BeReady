@@ -1,7 +1,6 @@
 ---
 id: 7db901c0-4871-44cf-98f0-0657990264e6
 created_at: 2026-09-18T08:45:09+08:00
-meta:
 filename: capabilities/materials/L1/clay-and-stone.md
 title: 黏土与石料
 level: L1

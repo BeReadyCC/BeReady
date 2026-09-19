@@ -1,7 +1,6 @@
 ---
 id: 049c01d0-1c41-4ca9-8197-d605b0ae688e
 created_at: 2026-09-17T23:26:00+08:00
-meta:
 filename: capabilities/medicine/L3/coping-without-medicine.md
 title: 缺药时的应对
 level: L3

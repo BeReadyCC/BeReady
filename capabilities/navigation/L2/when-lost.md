@@ -1,7 +1,6 @@
 ---
 id: eb3d48da-3e95-461f-97c5-0f5b01c259c0
 created_at: 2026-09-18T08:10:37+08:00
-meta:
 filename: capabilities/navigation/L2/when-lost.md
 title: 迷路后的应对
 level: L2

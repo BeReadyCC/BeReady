@@ -1,7 +1,6 @@
 ---
 id: e2e5dde6-1c40-47d4-888a-42376dae8652
 created_at: 2026-09-18T08:29:56+08:00
-meta:
 filename: capabilities/making/L2/pottery.md
 title: 陶器制作
 level: L2

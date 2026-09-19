@@ -1,7 +1,6 @@
 ---
 id: 48c88d87-77a6-4f63-b3c6-888cf429b40e
 created_at: 2026-09-17T19:41:06+08:00
-meta:
 filename: capabilities/fire/L2/dry-fuel.md
 title: 干燥燃料
 level: L2

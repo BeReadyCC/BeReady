@@ -1,7 +1,6 @@
 ---
 id: 55b124b6-c010-4476-ad0e-3b34e80670fb
 created_at: 2026-09-19T10:02:58+08:00
-meta:
 filename: capabilities/production/L3/breeding-selection.md
 title: 育种选育
 level: L3

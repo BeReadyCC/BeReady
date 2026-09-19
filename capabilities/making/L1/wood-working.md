@@ -1,7 +1,6 @@
 ---
 id: f3ebb25d-ca6f-4cb4-ab0e-ec96b2dd4a08
 created_at: 2026-09-18T08:29:56+08:00
-meta:
 filename: capabilities/making/L1/wood-working.md
 title: 木工基础
 level: L1

@@ -1,7 +1,6 @@
 ---
 id: b68484a7-908d-4388-bea4-89d75a37177f
 created_at: 2026-09-18T08:19:38+08:00
-meta:
 filename: capabilities/communication/L1/signals.md
 title: 信号与标记
 level: L1

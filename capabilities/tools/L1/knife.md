@@ -1,7 +1,6 @@
 ---
 id: 7daf47b7-ca74-4242-9446-d718443ed7eb
 created_at: 2026-09-18T08:00:45+08:00
-meta:
 filename: capabilities/tools/L1/knife.md
 title: 刀
 level: L1

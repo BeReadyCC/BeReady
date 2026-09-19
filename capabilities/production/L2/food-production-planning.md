@@ -1,7 +1,6 @@
 ---
 id: 6cb0a14c-dad2-43fd-957b-717418683273
 created_at: 2026-09-18T08:53:44+08:00
-meta:
 filename: capabilities/production/L2/food-production-planning.md
 title: 食物来源规划
 level: L2

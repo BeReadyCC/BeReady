@@ -1,7 +1,6 @@
 ---
 id: 628ed35a-eecb-4b41-8b4c-1bbcf2014324
 created_at: 2026-09-18T07:49:30+08:00
-meta:
 filename: capabilities/hygiene/L1/hygiene-principles.md
 title: 卫生第一原则
 level: L1

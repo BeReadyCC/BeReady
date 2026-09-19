@@ -1,7 +1,6 @@
 ---
 id: 2b40050a-7b90-4356-9937-e3b9bf9b1c1c
 created_at: 2026-09-18T08:00:45+08:00
-meta:
 filename: capabilities/tools/L1/axe-and-saw.md
 title: 斧与锯
 level: L1

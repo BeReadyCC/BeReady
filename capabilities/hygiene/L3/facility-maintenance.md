@@ -1,7 +1,6 @@
 ---
 id: 50394bd9-0d3a-48ec-8479-4de81cc6b874
 created_at: 2026-09-19T08:58:13+08:00
-meta:
 filename: capabilities/hygiene/L3/facility-maintenance.md
 title: 卫生设施维护
 level: L3

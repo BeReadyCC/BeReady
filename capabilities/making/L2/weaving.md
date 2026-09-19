@@ -1,7 +1,6 @@
 ---
 id: eb1b9cad-f8f3-4652-96d4-71e2055446da
 created_at: 2026-09-18T08:29:56+08:00
-meta:
 filename: capabilities/making/L2/weaving.md
 title: 编织
 level: L2

@@ -72,7 +72,7 @@ def parse(path):
     for key in ("filename", "title", "level", "category", "status"):
         mm = re.search(r"^%s:\s*(.+)$" % key, front, re.M)
         d[key] = mm.group(1).strip() if mm else None
-    # meta: 下各键必须顶格；缩进写法会让上面的 ^key: 匹配静默失效
+    # front matter 各键必须顶格；缩进写法会让上面的 ^key: 匹配静默失效
     d["bad_indent"] = bool(
         re.search(r"^\s+filename:", front, re.M) or re.search(r"^\s+title:", front, re.M)
     )
@@ -88,7 +88,7 @@ def check_structure(info):
     for rel in sorted(info):
         d = info[rel]
         if d["bad_indent"]:
-            errors.append("front matter 缩进（meta 下各键须顶格）: " + rel)
+            errors.append("front matter 缩进（各键须顶格）: " + rel)
 
         if not rel.startswith(SECTIONS_WITH_EXTRAS):
             continue                                   # index.md / _nav.md 非知识节点
@@ -212,6 +212,41 @@ def check_shallow(info):
     return hits
 
 
+# ---------------------------------------------------------------- 硬信息密度
+
+#: 带单位的量（1 厘米、20 分钟、5～6 次/分……）
+HARD_QTY = re.compile(
+    r"\d+\s*(?:cm|mm|km|m\b|℃|%|"
+    r"厘米|毫米|米|公里|升|毫升|克|公斤|斤|小时|分钟|秒|天|周|月|年|度|倍|次|人|份|层|步)")
+#: 编号步骤开头（"1." "1、" "**第 N 步"）
+PROC_STEP = re.compile(r"^\s*(?:\d+\s*[.、)]|\*\*\s*第)")
+#: 具体材料 / 手法词
+SPECIFIC = re.compile(
+    r"(石灰|木炭|硼砂|碘伏|酒精|绷带|纱布|夹板|盐|糖|醋|蜂蜜|松脂|黏土|泥土|树皮|"
+    r"干草|尿液|明矾|缝|引流|压迫|覆盖|掩埋|烟熏|蒸|煮|烧|焊|鞣|熬|滤)")
+
+
+def check_density(info, worst=40):
+    """按「硬信息密度」给每个节点打分，密度越低越可能是「只有原则、没有做法」。
+
+    .. warning:: 误伤率高——食物 / 火 / 庇护三章的低分节点读后大半扎实。
+       本项只用来**缩小人工抽读名单**，不能把分数直接当结论（043 经验）。
+    """
+    rows = []
+    for rel in sorted(info):
+        if rel.endswith("/index.md") or rel in ("index.md", "_nav.md"):
+            continue
+        text = info[rel]["text"]
+        lines = text.split("\n")
+        qty = len(HARD_QTY.findall(text))
+        step = sum(1 for l in lines if PROC_STEP.match(l))
+        spec = len(SPECIFIC.findall(text))
+        score = qty * 3 + step * 2 + spec
+        rows.append((score / max(len(lines), 1), score, qty, step, len(lines), rel))
+    rows.sort()
+    return rows[:worst]
+
+
 # ---------------------------------------------------------------- 主流程
 
 def main():
@@ -219,10 +254,13 @@ def main():
     ap.add_argument("--brief", action="store_true", help="只输出结论两行")
     ap.add_argument("--stale", action="store_true", help="检查过期标注")
     ap.add_argument("--shallow", action="store_true", help="列出浅句候选")
-    ap.add_argument("--all", action="store_true", help="等于 --stale --shallow")
+    ap.add_argument("--density", action="store_true",
+                    help="按硬信息密度列出最「空」的节点（缩小抽读名单，分数有误伤）")
+    ap.add_argument("--all", action="store_true", help="等于 --stale --shallow --density")
     args = ap.parse_args()
     do_stale = args.stale or args.all
     do_shallow = args.shallow or args.all
+    do_density = args.density or args.all
 
     info = {os.path.relpath(p, ROOT): parse(p) for p in collect()}
     errors, titles = check_structure(info)
@@ -249,6 +287,12 @@ def main():
         print("== 浅句候选 %d（人工复核，多数带具体动作，无需强改）==" % len(hits))
         for h in hits:
             print("  ?", h)
+    if do_density:
+        rows = check_density(info)
+        print("== 硬信息密度最低的 %d 个节点（抽读名单；分数有误伤，须逐条读原文）==" % len(rows))
+        print("   密度   分  量  步  行   文件")
+        for dens, score, qty, step, nlines, rel in rows:
+            print("  %.2f  %3d %3d %3d %4d  %s" % (dens, score, qty, step, nlines, rel))
 
     return 1 if errors else 0
 

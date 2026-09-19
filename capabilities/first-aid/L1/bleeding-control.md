@@ -1,7 +1,6 @@
 ---
 id: faf55603-e4d5-4c55-86ff-5279e861decd
 created_at: 2026-09-17T23:00:17+08:00
-meta:
 filename: capabilities/first-aid/L1/bleeding-control.md
 title: 止血
 level: L1

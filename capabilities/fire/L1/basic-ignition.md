@@ -1,7 +1,6 @@
 ---
 id: 993fed16-e8d1-4ae0-9383-b3133acd5436
 created_at: 2026-09-17T19:27:27+08:00
-meta:
 filename: capabilities/fire/L1/basic-ignition.md
 title: 基本点火
 level: L1
