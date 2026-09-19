@@ -2,7 +2,7 @@
 id: 6668e2b7-0c1d-440f-a9d0-e05668739a31
 created_at: 2026-09-18T08:56:30+08:00
 meta:
-filename: overwintering.md
+filename: scenarios/overwintering.md
 title: 越冬
 level: topic
 category: scenario

@@ -93,7 +93,7 @@ status: active
 
 # 6. 结构规则（仍然有效，摘要）
 
-- 目录：`capabilities/<capability>/<level>/<node>.md` 是唯一知识主树；每个节点只有一个 Canonical 归属，不复制。
+- 目录：`capabilities/<capability>/<level>/<node>.md` 是唯一知识主树；`scenarios/<scenario>.md` 是场景/整合主题（组合入口，通过 Wikilink 组合已有能力，不建第二套 Level、不复制知识）。每个节点只有一个 Canonical 归属，不复制。
 - front matter 四件必须齐且自洽：
 
 ```yaml
@@ -118,6 +118,8 @@ status: draft
 | 目录 | 权限 |
 |---|---|
 | `capabilities/` | **可随意调整**（新建、改写、移动，遵守第 6 条） |
+| `scenarios/` | **可随意调整**（场景/整合主题组合入口，2026-09-19 起） |
+| 工作区根目录 | **允许按原规划（规范 §40）新建合适的区域目录**；顶层区域 = `capabilities/` + `scenarios/`（原「仅限 capabilities/」已解除） |
 | `_raw/` | 原始输入区，只增不改，不动 |
 | `spec/` | 原始设计文档，不动；新增规范需用户明确要求（本文即为一例） |
 | `__everkm/` | 平台运行时，不动 |
